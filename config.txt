@@ -1,0 +1,10 @@
+[model]
+modelname = unet
+model_path = .\pretrained\
+
+[data]
+if_label = True
+input_path = .\image\input.tif
+label_path = .\image\label.tif
+pre_path = .\image\pre.tif
+batch_size = 1
