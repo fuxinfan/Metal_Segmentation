@@ -1,6 +1,6 @@
 # Metal Segmentation for CBCT projections
 
-Two pathways are utilized to generate simulated data sets for model training.
+Two pathways are utilized to generate simulated data sets for model training: forward projection by DeepDRR, and 2D merging with X-ray images.
 
 The link for downloading pretrained models is as follows:
 https://faubox.rrze.uni-erlangen.de/getlink/fiHnt9NBbGcfboiciJt1Z1/
