@@ -79,7 +79,7 @@ if len(imageshape) == 2:
     image = image.reshape((1, imageshape[0], imageshape[1]))
 output_image = model_pre(model, device, image, batch_size)
 output_image = output_image.reshape((imageshape))
-tiff.imwrite(pre_path, output_image)
+tiff.imwrite(pre_path+modelname+'_pre.tif', output_image)
 
 if if_label==True:
     label = tiff.imread(label_path)
