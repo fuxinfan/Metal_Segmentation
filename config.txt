@@ -6,5 +6,5 @@ model_path = .\pretrained\
 if_label = True
 input_path = .\image\input.tif
 label_path = .\image\label.tif
-pre_path = .\image\pre.tif
+pre_path = .\image\
 batch_size = 1
