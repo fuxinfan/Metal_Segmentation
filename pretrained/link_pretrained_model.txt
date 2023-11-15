@@ -1,3 +1,5 @@
 https://faubox.rrze.uni-erlangen.de/getlink/fiHnt9NBbGcfboiciJt1Z1/
 
 This link is valid for 700 days. If this link is no longer valid, please contact me via email: fuxin.fan@fau.de
+
+After downloading the pretrained models, please save them under this folder: pretrained
